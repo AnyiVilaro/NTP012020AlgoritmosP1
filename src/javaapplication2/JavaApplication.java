@@ -14,7 +14,7 @@ public class NewClass
 {
     
     public static void main(String[] args)
-    {   
+    {   //commit
         int suma=0;
         int n=0;
         Scanner entrada=new Scanner(System.in);
